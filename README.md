@@ -14,8 +14,3 @@
   (https://www.earticle.net/Article/A297206)
 - Tensorflow를 이용한 Beacon의 RSSI기반 거리계산
   (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07218755)
-
-
-
-.
-
